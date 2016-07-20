@@ -1,7 +1,7 @@
-shell
+fshell
 ======
 
-**shell scripting framework.**  
+**fshell scripting framework.**
 
 **objetives:**
 - write once and use much
