@@ -2,7 +2,7 @@
 # download assert.sh
 # 
 . ./shell.sh
-. ./assert.sh
+. assert.sh
 
 assert "space_fill 10 right test" "test      "
 assert "zero_fill 10 1" "0000000001"
